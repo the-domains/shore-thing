@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[shore thing]]></title>
         <description><![CDATA[shore thing]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/shore-thing/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 May 2016 21:16:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 04 May 2016 21:22:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/shore-thing/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The 9 Best Swimsuit Brands You Have Probably Never Heard Of]]></title>
+            <description><![CDATA[<article><h1>The 9 Best Swimsuit Brands You Have Probably Never Heard Of</h1><p>Spring is almost here. Okay, that is just a rumor we heard that we can neither confirm nor deny, but these tundra-like temperatures have to end sometime, right? And what is the first thing we are going to do when the earth unthaws? Head to the beach.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ee966ae111279f08019afe8e46dc841585849b96.jpg"></article>]]></description>
+            <link>http://www.huffingtonpost.com/2015/02/27/best-swimsuit-brands-never-heard-of_n_6762290.html</link>
+            <guid isPermaLink="false">4fd49655-6f57-4027-a197-e265caf796be</guid>
+            <pubDate>Wed, 04 May 2016 21:22:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/034b9c63-7009-4b62-96bb-27da70597e9d.jpg">]]></description>
-            <link>undefined82e3fa38-ce5b-48f4-a7fa-04887927efae/index.html</link>
+            <link>https://thegrid.ai/shore-thing/82e3fa38-ce5b-48f4-a7fa-04887927efae/index.html</link>
             <guid isPermaLink="false">82e3fa38-ce5b-48f4-a7fa-04887927efae</guid>
             <pubDate>Wed, 04 May 2016 21:16:28 GMT</pubDate>
         </item>
