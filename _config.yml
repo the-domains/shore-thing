@@ -1,14 +1,28 @@
-layout_spectrum: 0.06144739221781492
+name: shore thing
+favicon: null
+layout_spectrum: 0.85143
 typography_spectrum: 0.08790148282423615
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
+  brandColors:
+    - '#A7304F'
+    - '#F46D8D'
+    - '#F39EB5'
+    - '#081028'
+    - '#F0CEB7'
   brandStrength: 0.6848808275535703
   lightness: 0.3292296207509935
   saturation: 0.09052699385210872
   rhythmicContrast: 0.07850171835161746
-  brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-name: shore thing
+purpose: []
